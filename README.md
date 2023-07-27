@@ -1,4 +1,8 @@
-### Hi there 👋
+### Siriil
+
+I'm Tomás Freire, aka Siriil. My background is in music. I started studying the piano when I was eight years old and pursued my studies at the conservatory in Almada, Portugal. A few years later, I completed my undergraduate degree in Musicology at the Faculty of Humanities and Social Sciences of Nova University of Lisbon. After that, I pursued a one-year specialization in Sound Studies and Acoustics.
+
+It was around that time that I decided to teach myself to code, so I began to learn Python. Currently, I'm studying computer programming at 42 Lisboa.
 
 <!--
 **Siriil-git/Siriil-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
