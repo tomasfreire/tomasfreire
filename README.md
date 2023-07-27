@@ -1,6 +1,10 @@
 I'm Tomás Freire, also known as Siriil. My background is in music. I started studying the piano when I was eight years old, and later attended the conservatory in Almada, Portugal. After a few years, I pursued my undergraduate degree in Musicology at the Faculty of Humanities and Social Sciences of Nova University of Lisbon. Following that, I completed a one-year specialization in Sound Studies and Acoustics.
 
 It was around that time that I decided to teach myself how to code, so I began to learn Python. Currently, I'm studying computer programming at 42 Lisboa, where I hope, one day, to specialize in algorithms and AI. Apart from that, I have a profound love for the arts and technology, especially when both intersect. My other fields of interest include sound programming and algorithmic composition, particularly algorithmic electronic dance music, commonly known as algorave.
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codenamesiriil&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamesiriil&langs_count=5&theme=tokyonight)]()
+
 <!--
 **Siriil-git/Siriil-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
