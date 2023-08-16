@@ -40,7 +40,7 @@ It was around that time that I decided to teach myself how to code, so I began t
 
 ## My Repositories
 
-* [42-Lisboa](https://github.com/codenamesiriil/42-Lisboa)
+* [42-Lisboa](https://github.com/codenamesiriil/42-Lisboa/blob/main/README.md)
 
 <!--
 **Siriil-git/Siriil-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
