@@ -1,5 +1,4 @@
-
-
+## Intro
 
 I'm Tomás Freire, also known as Siriil. My background is in music. I started studying the piano when I was eight years old, and later attended the conservatory in Almada, Portugal. After a few years, I pursued my undergraduate degree in Musicology at the Faculty of Humanities and Social Sciences of Nova University of Lisbon. Following that, I completed a one-year specialization in Sound Studies and Acoustics.
 
@@ -29,6 +28,10 @@ It was around that time that I decided to teach myself how to code, so I began t
 </p> 
 
 ---
+
+## My Git
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codenamesiriil&count_private=true&theme=merko&showicons=true)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamesiriil&theme=merko&layout=compact)
 
