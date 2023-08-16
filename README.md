@@ -7,7 +7,7 @@ It was around that time that I decided to teach myself how to code, so I began t
 <br>
 
 <p align="center">
-  If you want to learn more about me follow me on social media:
+  If you want to learn more about me, follow me on social media:
 </p>
 
 <p align="center">
