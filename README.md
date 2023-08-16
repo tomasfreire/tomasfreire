@@ -32,7 +32,6 @@ It was around that time that I decided to teach myself how to code, so I began t
 
 ## Overview
 
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codenamesiriil&count_private=true&theme=merko&showicons=true)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamesiriil&theme=merko&layout=compact)
 
@@ -41,18 +40,3 @@ It was around that time that I decided to teach myself how to code, so I began t
 ## My Repositories
 
 * [42-Lisboa](https://github.com/codenamesiriil/42-Lisboa/blob/main/README.md)
-
-<!--
-**Siriil-git/Siriil-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
